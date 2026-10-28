@@ -14,7 +14,7 @@ My focus is making workflows usable and recoverable: repeatable setup, clear dia
 
 ## Currently building
 
-**Desegnos (WebMaker)** — An AI-assisted visual design desktop app with an infinite canvas, scoped AI editing, and local project history. Export paths support websites, slides, and images.
+**Desegnos** — An AI-assisted visual design desktop app with an infinite canvas, scoped AI editing, and local project history. Export paths support websites, slides, and images.
 
 Built with React, TypeScript, Rust, and Tauri. In active development, with end-to-end editing and export validation underway. The repository is private while development continues.
 
