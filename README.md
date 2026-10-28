@@ -14,8 +14,6 @@ My focus is making workflows usable and recoverable: repeatable setup, clear dia
 
 ## Approach
 
-I use AI-assisted development. The linked source, tests, release records, and documented limitations show the implementation and the evidence available for each project.
-
-These are independent projects. Test results demonstrate the behavior checked; they do not establish customer adoption, business savings, or model quality.
+I use AI-assisted development and document the implementation through source code, tests, release records, and clear limitations.
 
 [Website](https://chelib.com)
