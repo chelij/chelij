@@ -12,6 +12,12 @@ My focus is making workflows usable and recoverable: repeatable setup, clear dia
 | [Papan + ComfyUI](https://github.com/chelij/papan) | Collect references locally, extract DWPose control videos, and connect image/video references to ComfyUI through a companion node. | [Implementation case study](https://github.com/chelij/papan/blob/main/docs/case-study.md) · [ComfyUI extension](https://github.com/chelij/comfyui-papan) · [Verification](https://github.com/chelij/papan/blob/main/docs/verification.md) |
 | [Papan for Android](https://github.com/chelij/papan-android) | Collect references on a phone and deliver links to a paired desktop, with destination selection and queued retries. | [Source and verification](https://github.com/chelij/papan-android#readme) · [Releases](https://github.com/chelij/papan-android/releases) |
 
+## Currently building
+
+**Desegnos (WebMaker)** — An AI-assisted visual design desktop app with an infinite canvas, scoped AI editing, and local project history. Export paths support websites, slides, and images.
+
+Built with React, TypeScript, Rust, and Tauri. In active development, with end-to-end editing and export validation underway. The repository is private while development continues.
+
 ## Approach
 
 I use AI-assisted development and document the implementation through source code, tests, release records, and clear limitations.
